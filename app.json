@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "api": [
+    "https://aitoolz.space/",
+    "https://aitoolz.space/"
+  ],
+  "ws": [
+    "wss://ws.aitoolz.space",
+    "wss://ws2.aitoolz.space"
+  ]
+}
