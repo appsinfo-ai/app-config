@@ -1,11 +1,18 @@
 {
-  "version": 1,
+  "min_version": 5,
+  "soft_version": 7,
+  "update_url": "https://aitoolz.space/apps/apis/android_web/picshot/v1p8//update",
+
   "api": [
-    "https://aitoolz.space/",
-    "https://aitoolz.space/"
+    "https://aitoolz.space/apps/apis/android_web/picshot/v1p8/",
+    "https://api2.yourapp.net/",
+    "https://backup.yourapp.org/"
   ],
+
   "ws": [
-    "wss://ws.aitoolz.space",
-    "wss://ws2.aitoolz.space"
-  ]
+    "wss://ws1.aitoolz.space/apps/apis/android_web/picshot/v1p8/",
+    "wss://ws2.yourapp.net"
+  ],
+
+  "sig": "GENERATED_HMAC_SIGNATURE"
 }
